@@ -1,0 +1,12 @@
+.row {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0;
+}
+.header{
+	width: 100%;
+}
+.heading-section img#test{
+	width: 100%;
+}
